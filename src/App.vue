@@ -29,7 +29,7 @@
                 </div>
               </nav>
             </div>
-    <div class="container">
+    <div class="container-fluid">
       <router-view class="view"></router-view>
     </div>
   </div>
