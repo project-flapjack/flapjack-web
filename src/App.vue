@@ -29,7 +29,7 @@
                 </div>
               </nav>
             </div>
-    <div class="container-fluid">
+    <div class="container margin-top-50">
       <router-view class="view"></router-view>
     </div>
   </div>
@@ -44,5 +44,11 @@ body {
 }
 .router-link-active {
   color: white;
+}
+.margin-top-50{
+  margin-top:50px;
+}
+.display-inline-block{
+  display:inline-block;
 }
 </style>
